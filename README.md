@@ -1,0 +1,2 @@
+# rails-proj
+Learning Rails.
